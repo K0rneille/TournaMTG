@@ -3,7 +3,7 @@
 
 
   const addPlayer = (name) => {
-    console.log(name)
+     allPlayers
   }
 </script>
 
